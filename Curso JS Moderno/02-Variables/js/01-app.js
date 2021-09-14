@@ -23,3 +23,10 @@ var category = "Computers",
 //   variable cannot begin with number but with underscore _01variable_example
 var 99days; 
 var ___99days;
+
+// camellcase
+var productName;
+// snake
+var product_name;
+// pascal case
+var Product;
