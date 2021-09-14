@@ -21,7 +21,7 @@ var category = "Computers",
   rating = 5;
 
 //   variable cannot begin with number but with underscore _01variable_example
-var 99days; 
+// var 99days; 
 var ___99days;
 
 // camellcase
