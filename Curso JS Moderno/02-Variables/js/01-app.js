@@ -19,3 +19,7 @@ available = false;
 var category = "Computers",
   brand = "Apple",
   rating = 5;
+
+//   variable cannot begin with number but with underscore _01variable_example
+var 99days; 
+var ___99days;
