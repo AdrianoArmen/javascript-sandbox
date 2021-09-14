@@ -8,3 +8,9 @@ console.log(product);
 
 product = 20;
 console.log(product);
+
+// can intialize without assigning value
+var available;
+available= true;
+
+available=false;
