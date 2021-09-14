@@ -11,6 +11,11 @@ console.log(product);
 
 // can intialize without assigning value
 var available;
-available= true;
+available = true;
 
-available=false;
+available = false;
+
+// initialize multiple variables
+var category = "Computers",
+  brand = "Apple",
+  rating = 5;
