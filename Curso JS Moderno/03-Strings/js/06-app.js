@@ -17,5 +17,11 @@ const activity = "Im learning Modern JavaScript";
 // divides by space " "
 console.log(activity.split(" "));
 
+// divide by comma
 const hobbies = 'Read, walk, sing, write, code';
 console.log(hobbies.split(", "));
+
+// tweeter example
+const tweet = "Learning #CodingWithAdriano";
+console.log(tweet.split('#'));
+
