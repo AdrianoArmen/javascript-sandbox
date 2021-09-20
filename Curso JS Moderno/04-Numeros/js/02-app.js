@@ -13,7 +13,7 @@ result = number1-number2;
 result = number1*number2;
 
 // division
-
+result = number1/number2;
 
 // modulus
 
