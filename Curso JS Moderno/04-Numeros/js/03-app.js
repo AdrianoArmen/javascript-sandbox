@@ -9,6 +9,8 @@ result = math.round(2.2);
 result = math.round(2.6);
 result = math.round(2.5);
 
+// round number to next upper
+result = math.ceil(2.1);
 
 
 
