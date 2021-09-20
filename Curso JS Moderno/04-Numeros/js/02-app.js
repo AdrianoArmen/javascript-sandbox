@@ -15,8 +15,9 @@ result = number1*number2;
 // division
 result = number1/number2;
 
-// modulus
-
+// module
+result = number1%number2;
+// what is the residual after division
 
 
 console.log(result);
