@@ -4,7 +4,7 @@ const number2 = 20;
 let result ;
 
 // sum
-
+result = number1+number2;
 
 // substraction
 
