@@ -7,7 +7,7 @@ let result ;
 result = number1+number2;
 
 // substraction
-
+result = number1-number2;
 
 // multiplication
 
