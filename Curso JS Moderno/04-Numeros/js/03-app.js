@@ -33,6 +33,10 @@ result = Math.max(3, 5, 1, 12, -3);
 // random number
 result = Math.random()*20;
 
+// random number within a range
+result = Math.floor(Math.random() *30);
+// random number from 0 to 30 interger
+
  
 
 
