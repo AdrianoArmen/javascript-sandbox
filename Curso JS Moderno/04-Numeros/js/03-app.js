@@ -20,6 +20,10 @@ result = Math.sqrt(144);
 
 // absolute value
 result = Math.abs(-500);
+
+// power potencia
+result = Math.pow( 2, 4);
+
  
 
 
