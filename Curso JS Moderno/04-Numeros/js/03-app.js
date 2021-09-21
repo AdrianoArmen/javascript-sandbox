@@ -17,6 +17,9 @@ result = Math.floor(2.9);
 
 // root square
 result = Math.sqrt(144);
+
+// absolute value
+result = Math.abs(-500);
  
 
 
