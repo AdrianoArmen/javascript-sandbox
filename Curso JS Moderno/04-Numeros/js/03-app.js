@@ -24,6 +24,9 @@ result = Math.abs(-500);
 // power potencia
 result = Math.pow( 2, 4);
 
+// minimal or lower number
+result = Math.min(3, 5, 1, 12, -3);
+
  
 
 
