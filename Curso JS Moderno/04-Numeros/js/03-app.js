@@ -14,6 +14,9 @@ result = Math.ceil(2.1);
 
 // round to lower number
 result = Math.floor(2.9);
+
+// root square
+result = Math.sqrt(144);
  
 
 
