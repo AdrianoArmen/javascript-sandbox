@@ -1,17 +1,20 @@
 let result ;
 
 // PI
-result = math.PI;
+result = Math.PI;
 
 // round number
-result = math.round(2.8);
-result = math.round(2.2);
-result = math.round(2.6);
-result = math.round(2.5);
+result = Math.round(2.8);
+result = Math.round(2.2);
+result = Math.round(2.6);
+result = Math.round(2.5);
 
 // round number to next upper
-result = math.ceil(2.1);
+result = Math.ceil(2.1);
 
+// round to lower number
+result = Math.floor(2.9);
+ 
 
 
 console.log(result);
