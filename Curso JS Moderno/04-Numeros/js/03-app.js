@@ -27,6 +27,9 @@ result = Math.pow( 2, 4);
 // minimal or lower number
 result = Math.min(3, 5, 1, 12, -3);
 
+// maximun or highest number
+result = Math.max(3, 5, 1, 12, -3);
+
  
 
 
