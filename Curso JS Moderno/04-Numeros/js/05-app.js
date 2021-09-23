@@ -8,6 +8,8 @@ score--; //5
 
 score+=3 //increment 3
 
+score-=3 //decrement 3
+
 
 
 console.log(score);
