@@ -15,4 +15,6 @@ console.log(number1===number2);
 // number
 console.log(typeof number1);
 
+// string
+console.log(typeof number2);
 
