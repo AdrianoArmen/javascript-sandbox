@@ -10,3 +10,6 @@ console.log(Number.parseInt(number2));
 
 // parsefloat for fraction numbers
 console.log(Number.parseFloat(number2));
+
+// will return not a number NAN
+console.log(Number.parseInt(number3));
