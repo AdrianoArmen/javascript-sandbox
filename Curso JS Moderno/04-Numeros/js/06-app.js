@@ -15,5 +15,9 @@ console.log(Number.parseFloat(number2));
 console.log(Number.parseInt(number3));
 
 
-// check if a number is interger or not
+// check if a number is interger or not - true
 console.log(Number.isInteger(number4));
+
+
+// check if a number is interger or not - false
+console.log(Number.isInteger(number2));
