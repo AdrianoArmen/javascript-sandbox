@@ -13,3 +13,7 @@ console.log(Number.parseFloat(number2));
 
 // will return not a number NAN
 console.log(Number.parseInt(number3));
+
+
+// check if a number is interger or not
+console.log(Number.isInteger(number4));
