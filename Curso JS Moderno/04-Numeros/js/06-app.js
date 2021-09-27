@@ -7,3 +7,6 @@ console.log(Number.parseInt(number1));
 
 // will turn 20.2 into 20 interger
 console.log(Number.parseInt(number2));
+
+// parsefloat for fraction numbers
+console.log(Number.parseFloat(number2));
