@@ -11,3 +11,6 @@ console.log(number3>number1);
 // lower than opeator -true
 console.log(number1<number3);
 
+// lower than opeator -false
+console.log(number1<number3);
+
