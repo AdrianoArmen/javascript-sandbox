@@ -9,4 +9,7 @@ console.log(number1==number3);
 // will give true since its not a strict comparison
 console.log(number1==number2);
 
+// strict comparison
+console.log(number1===number2);
+
 
