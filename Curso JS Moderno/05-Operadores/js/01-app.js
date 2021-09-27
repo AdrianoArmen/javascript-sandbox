@@ -8,3 +8,6 @@ console.log(number1>number3);
 // greater than - true
 console.log(number3>number1);
 
+// lower than opeator -true
+console.log(number1<number3);
+
