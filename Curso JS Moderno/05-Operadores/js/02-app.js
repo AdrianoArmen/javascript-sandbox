@@ -12,7 +12,7 @@ console.log(number1==number2);
 // strict comparison - false
 console.log(number1===number2);
 
-// number
+ // number
 console.log(typeof number1);
 
 // string
