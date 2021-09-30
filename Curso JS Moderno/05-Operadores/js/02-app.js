@@ -25,4 +25,7 @@ console.log(number1===parseInt(number2));
 // comprare if they are different
 const password1 = "admin";
 const password2 = "Admin";
+// will log true becuase they are different
 console.log(password1!=password2);
+// will log out false becuase is not strict
+console.log(number1!=number2);
