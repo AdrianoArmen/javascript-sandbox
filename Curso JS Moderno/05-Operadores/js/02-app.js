@@ -20,3 +20,9 @@ console.log(typeof number2);
 
 // strict comparison with parse int to make it true
 console.log(number1===parseInt(number2));
+
+
+// comprare if they are different
+const password1 = "admin";
+const password2 = "Admin";
+console.log(password1!=password2);
