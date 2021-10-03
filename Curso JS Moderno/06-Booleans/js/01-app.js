@@ -5,3 +5,6 @@ const boolean2 = false;
 console.log(boolean1);
 // false
 console.log(boolean2);
+
+// will log BOOLEAN
+console.log(typeof boolean1);
