@@ -20,3 +20,6 @@ let number1 = null ;
 
 console.log(number1);
 // will log null
+
+console.log(typeof number1);
+// this will log OBJECT
