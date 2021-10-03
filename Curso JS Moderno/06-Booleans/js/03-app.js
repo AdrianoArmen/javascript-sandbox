@@ -13,3 +13,8 @@ if (authenticated) {
 } else {
     console.log("you can't watch")
 }
+
+
+// ternary operator
+console.log(authenticated ? "you can watch Netflix" : "you can't watch")
+// if authenticated is true then ^                  or  ^    
