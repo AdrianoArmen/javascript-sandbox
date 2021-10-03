@@ -23,3 +23,6 @@ console.log(number1);
 
 console.log(typeof number1);
 // this will log OBJECT
+
+// use strict coparison otherwise you will get a true
+console.log(number ===number1);
