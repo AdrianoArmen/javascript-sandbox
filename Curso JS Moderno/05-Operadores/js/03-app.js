@@ -9,4 +9,6 @@ for (i=1; i<=100; i++) {
     console.log(result || i);
 }
 // previous was fizz buzz exercise 
-
+let number ;
+console.log(number);
+// this will log UNDEFINED becuase its declared but not given a value
