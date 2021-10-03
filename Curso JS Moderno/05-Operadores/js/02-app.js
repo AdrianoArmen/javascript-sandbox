@@ -29,3 +29,5 @@ const password2 = "Admin";
 console.log(password1!=password2);
 // will log out false becuase is not strict
 console.log(number1!=number2);
+// different strict comparison with parese int to make it false
+console.log(number1!==parseInt(number2));
