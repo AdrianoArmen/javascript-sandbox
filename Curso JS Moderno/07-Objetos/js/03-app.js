@@ -7,4 +7,7 @@ const product = {
 // add properties to an object
 product.imagen = "imagen.jpg";
 
+// delete property form object
+delete product.available;
+
     console.log(product);
