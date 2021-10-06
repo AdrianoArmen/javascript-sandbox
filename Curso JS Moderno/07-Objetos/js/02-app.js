@@ -8,3 +8,6 @@ const product = {
 
     // dot notation to get inner key data
     console.log(product.name);
+
+    // not as common notation
+    console.log(product['name']);
