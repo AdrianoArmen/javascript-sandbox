@@ -4,7 +4,7 @@ const product = {
     available: true
     }
     
-
-
+// add properties to an object
+product.imagen = "imagen.jpg";
 
     console.log(product);
