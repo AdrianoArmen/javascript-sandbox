@@ -5,3 +5,6 @@ const product = {
     }
     
     console.log(product);
+
+    // dot notation to get inner key data
+    console.log(product.name);
