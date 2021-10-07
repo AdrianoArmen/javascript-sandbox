@@ -8,4 +8,7 @@ const product = {
     const name = product.name;
     console.log(name);
 
+    // object destructuring
+    // will extract that value of the object and creates variable
+    const { name } = product;
     
