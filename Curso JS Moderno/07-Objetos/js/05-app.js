@@ -9,3 +9,6 @@ const product = {
 };
 
 console.log(product);
+
+// dot notation to reach inside object
+console.log(product.price);
