@@ -7,4 +7,6 @@ const product = {
 // you cannot reasign const but you can change property values inside
 product.available = false;
 
+delete product.price;
+
     console.log(product);
