@@ -11,4 +11,10 @@ const product = {
     },
   };
   
+// nested object destructuring
+const { name , information, information: { factory} } = product;
+
+
   console.log(product);
+  console.log(information);
+  console.log(factory);
