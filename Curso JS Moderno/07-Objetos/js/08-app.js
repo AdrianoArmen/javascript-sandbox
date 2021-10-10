@@ -15,7 +15,13 @@ Object.freeze(product);
 // changing objects properties
 product.available = false;
 product.image = "image.jpg";
+delete product.price;
+
+// to check if object is frozen true or false
+console.log(Object.isFrozen(product));
+
 
 console.log(product);
+
 
 
