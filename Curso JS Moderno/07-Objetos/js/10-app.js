@@ -22,3 +22,4 @@ const group2 = {...product,...measures};
 
 console.log(group);
 console.log(group2);
+
