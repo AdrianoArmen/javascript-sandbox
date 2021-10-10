@@ -15,4 +15,10 @@ console.log(measures);
 // object method assing will combine objects in one variable
 const group = Object.assign(product,measures);
 
+
+// spread operator or rest operator
+// three dots mean make a copy of
+const group2 = {...product,...measures};
+
 console.log(group);
+console.log(group2);
