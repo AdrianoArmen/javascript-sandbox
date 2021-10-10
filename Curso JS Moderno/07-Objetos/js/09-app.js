@@ -8,8 +8,8 @@ const product = {
   available: true,
 };
 
-// prevent object from being modified - object method freeze
-Object.freeze(product);
+// object metod seal - different from freeze this one allows to modify existing properties only
+Object.seal(product);
 
 
 // changing objects properties
@@ -17,8 +17,8 @@ product.available = false;
 product.image = "image.jpg";
 delete product.price;
 
-// to check if object is frozen true or false
-console.log(Object.isFrozen(product));
+// to check if object is sealed
+console.log(Object.isSealed(product));
 
 
 console.log(product);
