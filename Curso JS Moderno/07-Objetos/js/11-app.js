@@ -7,5 +7,6 @@ console.log(`The product: ${this.name} has a price of: ${this.price}`)
     }
   };
 
+  product.showInfo();
 // template literal 
 // THIS scopes to object - to refers the object itself
