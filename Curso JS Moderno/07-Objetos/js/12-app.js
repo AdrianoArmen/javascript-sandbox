@@ -13,3 +13,6 @@ function Product(name, price) {
   this.price = price;
   this.available = true;
 }
+
+const product2= new Product('vibroblade', 600);
+console.log(product2);
