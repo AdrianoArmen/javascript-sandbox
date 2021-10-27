@@ -8,3 +8,6 @@ const product = {
   
 //   will return an array of the object keys or properties
   console.log(Object.keys( product))
+
+// will return array with values
+  console.log(Object.values( product))
