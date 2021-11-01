@@ -7,3 +7,6 @@ const product = {
     price: 300,
     available: true,
   };
+
+//   other way to creat array
+const months = new Array('January','February','March');
