@@ -10,3 +10,7 @@ const product = {
 
 //   other way to creat array
 const months = new Array('January','February','March');
+
+
+// index detrmines position
+console.log(numbers);
