@@ -12,5 +12,5 @@ const product = {
 const months = new Array('January','February','March');
 
 
-// // index detrmines position
-console.log(numbers);
+// // // index detrmines position
+// console.log(numbers);
