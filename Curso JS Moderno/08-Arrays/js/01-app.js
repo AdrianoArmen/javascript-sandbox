@@ -8,8 +8,8 @@ const product = {
     available: true,
   };
 
-//   other way to creat array
-const months = new Array('January','February','March');
+// //   other way to creat array
+// const months = new Array('January','February','March');
 
 
 // // // index detrmines position
